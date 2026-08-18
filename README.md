@@ -22,13 +22,13 @@ I enjoy turning real-world problems into working products — from **idea → pr
 
 ## 🏆 Highlights
 
-🥇 **Rank 1 — IIT Bombay Techfest (Eduthon)**  
+🥇 **Rank 1 — IIT Bombay Techfest (Eduthon)**
 Teacher Insight Engine (TIE)
 
-🥉 **Rank 3 — NIT Allahabad**  
+🥉 **Rank 3 — NIT Allahabad**
 Career Guidance Engine
 
-🚀 **Finalist — IIT Madras / Syngenta AgroAI Challenge**  
+🚀 **Finalist — IIT Madras / Syngenta AgroAI Challenge**
 Agro AI — Field Force Intelligence
 
 ---
