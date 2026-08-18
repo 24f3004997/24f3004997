@@ -121,7 +121,6 @@ AI-guided agricultural field-force intelligence platform combining weather, crop
 </div>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -136,7 +135,8 @@ AI-guided agricultural field-force intelligence platform combining weather, crop
     srcset="https://raw.githubusercontent.com/24f3004997/24f3004997/output/github-snake.svg">
 
   <img
-    alt="Snake eating my contributions"
+    width="100%"
+    alt="Vishwa's contribution snake"
     src="https://raw.githubusercontent.com/24f3004997/24f3004997/output/github-snake.svg">
 </picture>
 
@@ -149,25 +149,15 @@ AI-guided agricultural field-force intelligence platform combining weather, crop
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vishwa-prakash-77bb59343/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://www.instagram.com/maivishwahooon/">
-  <img
-    src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F"
-    alt="Instagram">
+<img src="https://img.shields.io/badge/INSTAGRAM-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA" height="32">
 </a>
-
 &nbsp;&nbsp;
-
 <a href="mailto:vishwaprakash805@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
-    alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" height="32">
 </a>
 
 </div>
