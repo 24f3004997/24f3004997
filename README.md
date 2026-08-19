@@ -120,30 +120,6 @@ AI-guided agricultural field-force intelligence platform combining weather, crop
 
 </div>
 
----
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/24f3004997/24f3004997/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/24f3004997/24f3004997/output/github-snake.svg">
-
-  <img
-    width="100%"
-    alt="Vishwa's contribution snake"
-    src="https://raw.githubusercontent.com/24f3004997/24f3004997/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
